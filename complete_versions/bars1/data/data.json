@@ -1,0 +1,5170 @@
+[
+  {
+    "gender": "male",
+    "name": "Adrian Pucey",
+    "house": "Slytherin",
+    "classname": "adrian_pucey",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1989"
+  },
+  {
+    "gender": "female",
+    "name": "Alicia Spinnet",
+    "house": "Gryffindor",
+    "classname": "alicia_spinnet",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 9,
+        "links": [
+          {
+            "source": "alicia_spinnet",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "george_weasley"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "katie_bell"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "oliver_wood"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 8,
+        "links": [
+          {
+            "source": "alicia_spinnet",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "george_weasley"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "katie_bell"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 6,
+        "links": [
+          {
+            "source": "alicia_spinnet",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "george_weasley"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "alicia_spinnet",
+            "target": "katie_bell"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1989"
+  },
+  {
+    "gender": "female",
+    "name": "Angelina Johnson",
+    "house": "Gryffindor",
+    "classname": "angelina_johnson",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 7,
+        "links": [
+          {
+            "source": "angelina_johnson",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "george_weasley"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "katie_bell"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "oliver_wood"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 8,
+        "links": [
+          {
+            "source": "angelina_johnson",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "george_weasley"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "katie_bell"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 6,
+        "links": [
+          {
+            "source": "angelina_johnson",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "george_weasley"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "angelina_johnson",
+            "target": "katie_bell"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1989"
+  },
+  {
+    "gender": "male",
+    "name": "Anthony Goldstein",
+    "house": "Ravenclaw",
+    "classname": "anthony_goldstein",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 7,
+        "links": [
+          {
+            "source": "anthony_goldstein",
+            "target": "anthony_goldstein"
+          },
+          {
+            "source": "anthony_goldstein",
+            "target": "ernie_macmillan"
+          },
+          {
+            "source": "anthony_goldstein",
+            "target": "hannah_abbott"
+          },
+          {
+            "source": "anthony_goldstein",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "anthony_goldstein",
+            "target": "justin_finch-fletchley"
+          },
+          {
+            "source": "anthony_goldstein",
+            "target": "susan_bones"
+          },
+          {
+            "source": "anthony_goldstein",
+            "target": "terry_boot"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Blaise Zabini",
+    "house": "Slytherin",
+    "classname": "blaise_zabini",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "C. Warrington",
+    "house": "Slytherin",
+    "classname": "c._warrington",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1989"
+  },
+  {
+    "gender": "male",
+    "name": "Cedric Diggory",
+    "house": "Hufflepuff",
+    "classname": "cedric_diggory",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 3,
+        "links": [
+          {
+            "source": "cedric_diggory",
+            "target": "cedric_diggory"
+          },
+          {
+            "source": "cedric_diggory",
+            "target": "cho_chang"
+          },
+          {
+            "source": "cedric_diggory",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1988"
+  },
+  {
+    "gender": "female",
+    "name": "Cho Chang",
+    "house": "Ravenclaw",
+    "classname": "cho_chang",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 2,
+        "links": [
+          {
+            "source": "cho_chang",
+            "target": "cho_chang"
+          },
+          {
+            "source": "cho_chang",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 2,
+        "links": [
+          {
+            "source": "cho_chang",
+            "target": "cho_chang"
+          },
+          {
+            "source": "cho_chang",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 2,
+        "links": [
+          {
+            "source": "cho_chang",
+            "target": "cho_chang"
+          },
+          {
+            "source": "cho_chang",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1990"
+  },
+  {
+    "gender": "male",
+    "name": "Colin Creevey",
+    "house": "Gryffindor",
+    "classname": "colin_creevey",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 3,
+        "links": [
+          {
+            "source": "colin_creevey",
+            "target": "colin_creevey"
+          },
+          {
+            "source": "colin_creevey",
+            "target": "dennis_creevey"
+          },
+          {
+            "source": "colin_creevey",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1992"
+  },
+  {
+    "gender": "male",
+    "name": "Cormac McLaggen",
+    "house": "Gryffindor",
+    "classname": "cormac_mclaggen",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1990"
+  },
+  {
+    "gender": "male",
+    "name": "Dean Thomas",
+    "house": "Gryffindor",
+    "classname": "dean_thomas",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 6,
+        "links": [
+          {
+            "source": "dean_thomas",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 5,
+        "links": [
+          {
+            "source": "dean_thomas",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 6,
+        "links": [
+          {
+            "source": "dean_thomas",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "lavender_brown"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "parvati_patil"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 1,
+        "links": [
+          {
+            "source": "dean_thomas",
+            "target": "dean_thomas"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 2,
+        "links": [
+          {
+            "source": "dean_thomas",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 4,
+        "links": [
+          {
+            "source": "dean_thomas",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "dean_thomas",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Demelza Robins",
+    "house": "Gryffindor",
+    "classname": "demelza_robins",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 1,
+        "links": [
+          {
+            "source": "demelza_robins",
+            "target": "demelza_robins"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1993"
+  },
+  {
+    "gender": "male",
+    "name": "Dennis Creevey",
+    "house": "Gryffindor",
+    "classname": "dennis_creevey",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 3,
+        "links": [
+          {
+            "source": "dennis_creevey",
+            "target": "colin_creevey"
+          },
+          {
+            "source": "dennis_creevey",
+            "target": "dennis_creevey"
+          },
+          {
+            "source": "dennis_creevey",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "male",
+    "name": "Draco Malfoy",
+    "house": "Slytherin",
+    "classname": "draco_malfoy",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 1,
+        "links": [
+          {
+            "source": "draco_malfoy",
+            "target": "draco_malfoy"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 2,
+        "links": [
+          {
+            "source": "draco_malfoy",
+            "target": "draco_malfoy"
+          },
+          {
+            "source": "draco_malfoy",
+            "target": "marcus_flint"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 1,
+        "links": [
+          {
+            "source": "draco_malfoy",
+            "target": "draco_malfoy"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 2,
+        "links": [
+          {
+            "source": "draco_malfoy",
+            "target": "draco_malfoy"
+          },
+          {
+            "source": "draco_malfoy",
+            "target": "pansy_parkinson"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 1,
+        "links": [
+          {
+            "source": "draco_malfoy",
+            "target": "draco_malfoy"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Eddie Carmichael",
+    "house": "Ravenclaw",
+    "classname": "eddie_carmichael",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1990"
+  },
+  {
+    "gender": "female",
+    "name": "Eleanor Branstone",
+    "house": "Hufflepuff",
+    "classname": "eleanor_branstone",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "male",
+    "name": "Ernie Macmillan",
+    "house": "Hufflepuff",
+    "classname": "ernie_macmillan",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 2,
+        "links": [
+          {
+            "source": "ernie_macmillan",
+            "target": "ernie_macmillan"
+          },
+          {
+            "source": "ernie_macmillan",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 7,
+        "links": [
+          {
+            "source": "ernie_macmillan",
+            "target": "anthony_goldstein"
+          },
+          {
+            "source": "ernie_macmillan",
+            "target": "ernie_macmillan"
+          },
+          {
+            "source": "ernie_macmillan",
+            "target": "hannah_abbott"
+          },
+          {
+            "source": "ernie_macmillan",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ernie_macmillan",
+            "target": "justin_finch-fletchley"
+          },
+          {
+            "source": "ernie_macmillan",
+            "target": "susan_bones"
+          },
+          {
+            "source": "ernie_macmillan",
+            "target": "terry_boot"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Euan Abercrombie",
+    "house": "Gryffindor",
+    "classname": "euan_abercrombie",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1995"
+  },
+  {
+    "gender": "male",
+    "name": "Fred Weasley",
+    "house": "Gryffindor",
+    "classname": "fred_weasley",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 3,
+        "links": [
+          {
+            "source": "fred_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 10,
+        "links": [
+          {
+            "source": "fred_weasley",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "katie_bell"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "lee_jordan"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "oliver_wood"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 9,
+        "links": [
+          {
+            "source": "fred_weasley",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "katie_bell"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 6,
+        "links": [
+          {
+            "source": "fred_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 10,
+        "links": [
+          {
+            "source": "fred_weasley",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "katie_bell"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "lee_jordan"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 4,
+        "links": [
+          {
+            "source": "fred_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "fred_weasley",
+            "target": "hermione_granger"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1989"
+  },
+  {
+    "gender": "male",
+    "name": "George Weasley",
+    "house": "Gryffindor",
+    "classname": "george_weasley",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 3,
+        "links": [
+          {
+            "source": "george_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 10,
+        "links": [
+          {
+            "source": "george_weasley",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "george_weasley",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "george_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "george_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "george_weasley",
+            "target": "katie_bell"
+          },
+          {
+            "source": "george_weasley",
+            "target": "lee_jordan"
+          },
+          {
+            "source": "george_weasley",
+            "target": "oliver_wood"
+          },
+          {
+            "source": "george_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 9,
+        "links": [
+          {
+            "source": "george_weasley",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "george_weasley",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "george_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "george_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "george_weasley",
+            "target": "katie_bell"
+          },
+          {
+            "source": "george_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 5,
+        "links": [
+          {
+            "source": "george_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "george_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "george_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 10,
+        "links": [
+          {
+            "source": "george_weasley",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "george_weasley",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "george_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "george_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "george_weasley",
+            "target": "katie_bell"
+          },
+          {
+            "source": "george_weasley",
+            "target": "lee_jordan"
+          },
+          {
+            "source": "george_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 3,
+        "links": [
+          {
+            "source": "george_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "george_weasley",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1989"
+  },
+  {
+    "gender": "female",
+    "name": "Ginny Weasley",
+    "house": "Gryffindor",
+    "classname": "ginny_weasley",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 2,
+        "links": [
+          {
+            "source": "ginny_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 5,
+        "links": [
+          {
+            "source": "ginny_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 1,
+        "links": [
+          {
+            "source": "ginny_weasley",
+            "target": "ginny_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 8,
+        "links": [
+          {
+            "source": "ginny_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "luna_lovegood"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 6,
+        "links": [
+          {
+            "source": "ginny_weasley",
+            "target": "demelza_robins"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "ginny_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1992"
+  },
+  {
+    "gender": "male",
+    "name": "Graham Pritchard",
+    "house": "Slytherin",
+    "classname": "graham_pritchard",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "male",
+    "name": "Gregory Goyle",
+    "house": "Slytherin",
+    "classname": "gregory_goyle",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 4,
+        "links": [
+          {
+            "source": "gregory_goyle",
+            "target": "draco_malfoy"
+          },
+          {
+            "source": "gregory_goyle",
+            "target": "gregory_goyle"
+          },
+          {
+            "source": "gregory_goyle",
+            "target": "pansy_parkinson"
+          },
+          {
+            "source": "gregory_goyle",
+            "target": "vincent_crabbe"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 3,
+        "links": [
+          {
+            "source": "gregory_goyle",
+            "target": "draco_malfoy"
+          },
+          {
+            "source": "gregory_goyle",
+            "target": "gregory_goyle"
+          },
+          {
+            "source": "gregory_goyle",
+            "target": "vincent_crabbe"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Hannah Abbott",
+    "house": "Hufflepuff",
+    "classname": "hannah_abbott",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 2,
+        "links": [
+          {
+            "source": "hannah_abbott",
+            "target": "hannah_abbott"
+          },
+          {
+            "source": "hannah_abbott",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 7,
+        "links": [
+          {
+            "source": "hannah_abbott",
+            "target": "anthony_goldstein"
+          },
+          {
+            "source": "hannah_abbott",
+            "target": "ernie_macmillan"
+          },
+          {
+            "source": "hannah_abbott",
+            "target": "hannah_abbott"
+          },
+          {
+            "source": "hannah_abbott",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "hannah_abbott",
+            "target": "justin_finch-fletchley"
+          },
+          {
+            "source": "hannah_abbott",
+            "target": "susan_bones"
+          },
+          {
+            "source": "hannah_abbott",
+            "target": "terry_boot"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Harry James Potter",
+    "house": "Gryffindor",
+    "classname": "harry_james_potter",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 6,
+        "links": [
+          {
+            "source": "harry_james_potter",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 8,
+        "links": [
+          {
+            "source": "harry_james_potter",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ernie_macmillan"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "justin_finch-fletchley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "lee_jordan"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 7,
+        "links": [
+          {
+            "source": "harry_james_potter",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 7,
+        "links": [
+          {
+            "source": "harry_james_potter",
+            "target": "cedric_diggory"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "george_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 15,
+        "links": [
+          {
+            "source": "harry_james_potter",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "cho_chang"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ernie_macmillan"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "george_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "justin_finch-fletchley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "katie_bell"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "lee_jordan"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "luna_lovegood"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 11,
+        "links": [
+          {
+            "source": "harry_james_potter",
+            "target": "demelza_robins"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "george_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "katie_bell"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "leanne"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "luna_lovegood"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "harry_james_potter",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Hermione Granger",
+    "house": "Gryffindor",
+    "classname": "hermione_granger",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 6,
+        "links": [
+          {
+            "source": "hermione_granger",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 9,
+        "links": [
+          {
+            "source": "hermione_granger",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "george_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "katie_bell"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "oliver_wood"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 9,
+        "links": [
+          {
+            "source": "hermione_granger",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "george_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 6,
+        "links": [
+          {
+            "source": "hermione_granger",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "george_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 8,
+        "links": [
+          {
+            "source": "hermione_granger",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "george_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "luna_lovegood"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 7,
+        "links": [
+          {
+            "source": "hermione_granger",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "katie_bell"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "leanne"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "luna_lovegood"
+          },
+          {
+            "source": "hermione_granger",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Jimmy Peakes",
+    "house": "Gryffindor",
+    "classname": "jimmy_peakes",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 2,
+        "links": [
+          {
+            "source": "jimmy_peakes",
+            "target": "demelza_robins"
+          },
+          {
+            "source": "jimmy_peakes",
+            "target": "jimmy_peakes"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "male",
+    "name": "Justin Finch-Fletchley",
+    "house": "Hufflepuff",
+    "classname": "justin_finch-fletchley",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 2,
+        "links": [
+          {
+            "source": "justin_finch-fletchley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "justin_finch-fletchley",
+            "target": "justin_finch-fletchley"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 7,
+        "links": [
+          {
+            "source": "justin_finch-fletchley",
+            "target": "anthony_goldstein"
+          },
+          {
+            "source": "justin_finch-fletchley",
+            "target": "ernie_macmillan"
+          },
+          {
+            "source": "justin_finch-fletchley",
+            "target": "hannah_abbott"
+          },
+          {
+            "source": "justin_finch-fletchley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "justin_finch-fletchley",
+            "target": "justin_finch-fletchley"
+          },
+          {
+            "source": "justin_finch-fletchley",
+            "target": "susan_bones"
+          },
+          {
+            "source": "justin_finch-fletchley",
+            "target": "terry_boot"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Katie Bell",
+    "house": "Gryffindor",
+    "classname": "katie_bell",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 7,
+        "links": [
+          {
+            "source": "katie_bell",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "katie_bell",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "katie_bell",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "katie_bell",
+            "target": "george_weasley"
+          },
+          {
+            "source": "katie_bell",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "katie_bell",
+            "target": "katie_bell"
+          },
+          {
+            "source": "katie_bell",
+            "target": "oliver_wood"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 6,
+        "links": [
+          {
+            "source": "katie_bell",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "katie_bell",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "katie_bell",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "katie_bell",
+            "target": "george_weasley"
+          },
+          {
+            "source": "katie_bell",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "katie_bell",
+            "target": "katie_bell"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 6,
+        "links": [
+          {
+            "source": "katie_bell",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "katie_bell",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "katie_bell",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "katie_bell",
+            "target": "george_weasley"
+          },
+          {
+            "source": "katie_bell",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "katie_bell",
+            "target": "katie_bell"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 1,
+        "links": [
+          {
+            "source": "katie_bell",
+            "target": "katie_bell"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1990"
+  },
+  {
+    "gender": "male",
+    "name": "Kevin Whitby",
+    "house": "Hufflepuff",
+    "classname": "kevin_whitby",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "female",
+    "name": "Lavender Brown",
+    "house": "Gryffindor",
+    "classname": "lavender_brown",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 1,
+        "links": [
+          {
+            "source": "lavender_brown",
+            "target": "lavender_brown"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 2,
+        "links": [
+          {
+            "source": "lavender_brown",
+            "target": "lavender_brown"
+          },
+          {
+            "source": "lavender_brown",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Leanne",
+    "house": "Hufflepuff",
+    "classname": "leanne",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 2,
+        "links": [
+          {
+            "source": "leanne",
+            "target": "katie_bell"
+          },
+          {
+            "source": "leanne",
+            "target": "leanne"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Lee Jordan",
+    "house": "Gryffindor",
+    "classname": "lee_jordan",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 4,
+        "links": [
+          {
+            "source": "lee_jordan",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "lee_jordan",
+            "target": "george_weasley"
+          },
+          {
+            "source": "lee_jordan",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "lee_jordan",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 3,
+        "links": [
+          {
+            "source": "lee_jordan",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "lee_jordan",
+            "target": "george_weasley"
+          },
+          {
+            "source": "lee_jordan",
+            "target": "lee_jordan"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1989"
+  },
+  {
+    "gender": "male",
+    "name": "Lucian Bole",
+    "house": "Slytherin",
+    "classname": "lucian_bole",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1988"
+  },
+  {
+    "gender": "female",
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw",
+    "classname": "luna_lovegood",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 6,
+        "links": [
+          {
+            "source": "luna_lovegood",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "luna_lovegood",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "luna_lovegood",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "luna_lovegood",
+            "target": "luna_lovegood"
+          },
+          {
+            "source": "luna_lovegood",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "luna_lovegood",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 4,
+        "links": [
+          {
+            "source": "luna_lovegood",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "luna_lovegood",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "luna_lovegood",
+            "target": "luna_lovegood"
+          },
+          {
+            "source": "luna_lovegood",
+            "target": "neville_longbottom"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1992"
+  },
+  {
+    "gender": "male",
+    "name": "Malcolm Baddock",
+    "house": "Slytherin",
+    "classname": "malcolm_baddock",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "female",
+    "name": "Mandy Brocklehurst",
+    "house": "Ravenclaw",
+    "classname": "mandy_brocklehurst",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Marcus Belby",
+    "house": "Ravenclaw",
+    "classname": "marcus_belby",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 1,
+        "links": [
+          {
+            "source": "marcus_belby",
+            "target": "marcus_belby"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1990"
+  },
+  {
+    "gender": "male",
+    "name": "Marcus Flint",
+    "house": "Slytherin",
+    "classname": "marcus_flint",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 2,
+        "links": [
+          {
+            "source": "marcus_flint",
+            "target": "draco_malfoy"
+          },
+          {
+            "source": "marcus_flint",
+            "target": "marcus_flint"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1986"
+  },
+  {
+    "gender": "male",
+    "name": "Michael Corner",
+    "house": "Ravenclaw",
+    "classname": "michael_corner",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Miles Bletchley",
+    "house": "Slytherin",
+    "classname": "miles_bletchley",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1989"
+  },
+  {
+    "gender": "female",
+    "name": "Millicent Bulstrode",
+    "house": "Slytherin",
+    "classname": "millicent_bulstrode",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Natalie McDonald",
+    "house": "Gryffindor",
+    "classname": "natalie_mcdonald",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "male",
+    "name": "Neville Longbottom",
+    "house": "Gryffindor",
+    "classname": "neville_longbottom",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 6,
+        "links": [
+          {
+            "source": "neville_longbottom",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 5,
+        "links": [
+          {
+            "source": "neville_longbottom",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 7,
+        "links": [
+          {
+            "source": "neville_longbottom",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 1,
+        "links": [
+          {
+            "source": "neville_longbottom",
+            "target": "neville_longbottom"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 6,
+        "links": [
+          {
+            "source": "neville_longbottom",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "luna_lovegood"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 4,
+        "links": [
+          {
+            "source": "neville_longbottom",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "neville_longbottom",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Oliver Wood",
+    "house": "Gryffindor",
+    "classname": "oliver_wood",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 7,
+        "links": [
+          {
+            "source": "oliver_wood",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "oliver_wood",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "oliver_wood",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "oliver_wood",
+            "target": "george_weasley"
+          },
+          {
+            "source": "oliver_wood",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "oliver_wood",
+            "target": "katie_bell"
+          },
+          {
+            "source": "oliver_wood",
+            "target": "oliver_wood"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 3,
+        "links": [
+          {
+            "source": "oliver_wood",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "oliver_wood",
+            "target": "oliver_wood"
+          },
+          {
+            "source": "oliver_wood",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1987"
+  },
+  {
+    "gender": "female",
+    "name": "Orla Quirke",
+    "house": "Ravenclaw",
+    "classname": "orla_quirke",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "male",
+    "name": "Owen Cauldwell",
+    "house": "Hufflepuff",
+    "classname": "owen_cauldwell",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "female",
+    "name": "Padma Patil",
+    "house": "Ravenclaw",
+    "classname": "padma_patil",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 1,
+        "links": [
+          {
+            "source": "padma_patil",
+            "target": "harry_james_potter"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Pansy Parkinson",
+    "house": "Slytherin",
+    "classname": "pansy_parkinson",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 4,
+        "links": [
+          {
+            "source": "pansy_parkinson",
+            "target": "draco_malfoy"
+          },
+          {
+            "source": "pansy_parkinson",
+            "target": "gregory_goyle"
+          },
+          {
+            "source": "pansy_parkinson",
+            "target": "pansy_parkinson"
+          },
+          {
+            "source": "pansy_parkinson",
+            "target": "vincent_crabbe"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Parvati Patil",
+    "house": "Gryffindor",
+    "classname": "parvati_patil",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 2,
+        "links": [
+          {
+            "source": "parvati_patil",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "parvati_patil",
+            "target": "parvati_patil"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 4,
+        "links": [
+          {
+            "source": "parvati_patil",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "parvati_patil",
+            "target": "lavender_brown"
+          },
+          {
+            "source": "parvati_patil",
+            "target": "parvati_patil"
+          },
+          {
+            "source": "parvati_patil",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 1,
+        "links": [
+          {
+            "source": "parvati_patil",
+            "target": "parvati_patil"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Penelope Clearwater",
+    "house": "Ravenclaw",
+    "classname": "penelope_clearwater",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1987"
+  },
+  {
+    "gender": "male",
+    "name": "Percy Weasley",
+    "house": "Gryffindor",
+    "classname": "percy_weasley",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 2,
+        "links": [
+          {
+            "source": "percy_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "percy_weasley",
+            "target": "percy_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 3,
+        "links": [
+          {
+            "source": "percy_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "percy_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "percy_weasley",
+            "target": "percy_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 2,
+        "links": [
+          {
+            "source": "percy_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "percy_weasley",
+            "target": "percy_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 3,
+        "links": [
+          {
+            "source": "percy_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "percy_weasley",
+            "target": "percy_weasley"
+          },
+          {
+            "source": "percy_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 3,
+        "links": [
+          {
+            "source": "percy_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "percy_weasley",
+            "target": "percy_weasley"
+          },
+          {
+            "source": "percy_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 1,
+        "links": [
+          {
+            "source": "percy_weasley",
+            "target": "percy_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1987"
+  },
+  {
+    "gender": "male",
+    "name": "Peregrine Derrick",
+    "house": "Slytherin",
+    "classname": "peregrine_derrick",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1988"
+  },
+  {
+    "gender": "male",
+    "name": "Roger Davies",
+    "house": "Ravenclaw",
+    "classname": "roger_davies",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 1,
+        "links": [
+          {
+            "source": "roger_davies",
+            "target": "roger_davies"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 1,
+        "links": [
+          {
+            "source": "roger_davies",
+            "target": "roger_davies"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1989"
+  },
+  {
+    "gender": "female",
+    "name": "Romilda Vane",
+    "house": "Gryffindor",
+    "classname": "romilda_vane",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1993"
+  },
+  {
+    "gender": "male",
+    "name": "Ronald Weasley",
+    "house": "Gryffindor",
+    "classname": "ronald_weasley",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 6,
+        "links": [
+          {
+            "source": "ronald_weasley",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 9,
+        "links": [
+          {
+            "source": "ronald_weasley",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 11,
+        "links": [
+          {
+            "source": "ronald_weasley",
+            "target": "alicia_spinnet"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "angelina_johnson"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "lavender_brown"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 6,
+        "links": [
+          {
+            "source": "ronald_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 8,
+        "links": [
+          {
+            "source": "ronald_weasley",
+            "target": "fred_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "george_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "luna_lovegood"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ronald_weasley"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 9,
+        "links": [
+          {
+            "source": "ronald_weasley",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ginny_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "katie_bell"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "leanne"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "ronald_weasley",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "female",
+    "name": "Rose Zeller",
+    "house": "Hufflepuff",
+    "classname": "rose_zeller",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1995"
+  },
+  {
+    "gender": "male",
+    "name": "Seamus Finnigan",
+    "house": "Gryffindor",
+    "classname": "seamus_finnigan",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 6,
+        "links": [
+          {
+            "source": "seamus_finnigan",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 5,
+        "links": [
+          {
+            "source": "seamus_finnigan",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 7,
+        "links": [
+          {
+            "source": "seamus_finnigan",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "lavender_brown"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "neville_longbottom"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "parvati_patil"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 2,
+        "links": [
+          {
+            "source": "seamus_finnigan",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 4,
+        "links": [
+          {
+            "source": "seamus_finnigan",
+            "target": "dean_thomas"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "ronald_weasley"
+          },
+          {
+            "source": "seamus_finnigan",
+            "target": "seamus_finnigan"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Stewart Ackerley",
+    "house": "Ravenclaw",
+    "classname": "stewart_ackerley",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1994"
+  },
+  {
+    "gender": "female",
+    "name": "Susan Bones",
+    "house": "Hufflepuff",
+    "classname": "susan_bones",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 7,
+        "links": [
+          {
+            "source": "susan_bones",
+            "target": "anthony_goldstein"
+          },
+          {
+            "source": "susan_bones",
+            "target": "ernie_macmillan"
+          },
+          {
+            "source": "susan_bones",
+            "target": "hannah_abbott"
+          },
+          {
+            "source": "susan_bones",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "susan_bones",
+            "target": "justin_finch-fletchley"
+          },
+          {
+            "source": "susan_bones",
+            "target": "susan_bones"
+          },
+          {
+            "source": "susan_bones",
+            "target": "terry_boot"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Terry Boot",
+    "house": "Ravenclaw",
+    "classname": "terry_boot",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 8,
+        "links": [
+          {
+            "source": "terry_boot",
+            "target": "anthony_goldstein"
+          },
+          {
+            "source": "terry_boot",
+            "target": "ernie_macmillan"
+          },
+          {
+            "source": "terry_boot",
+            "target": "hannah_abbott"
+          },
+          {
+            "source": "terry_boot",
+            "target": "harry_james_potter"
+          },
+          {
+            "source": "terry_boot",
+            "target": "hermione_granger"
+          },
+          {
+            "source": "terry_boot",
+            "target": "justin_finch-fletchley"
+          },
+          {
+            "source": "terry_boot",
+            "target": "susan_bones"
+          },
+          {
+            "source": "terry_boot",
+            "target": "terry_boot"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Theodore Nott",
+    "house": "Slytherin",
+    "classname": "theodore_nott",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Vincent Crabbe",
+    "house": "Slytherin",
+    "classname": "vincent_crabbe",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 4,
+        "links": [
+          {
+            "source": "vincent_crabbe",
+            "target": "draco_malfoy"
+          },
+          {
+            "source": "vincent_crabbe",
+            "target": "gregory_goyle"
+          },
+          {
+            "source": "vincent_crabbe",
+            "target": "pansy_parkinson"
+          },
+          {
+            "source": "vincent_crabbe",
+            "target": "vincent_crabbe"
+          }
+        ],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 3,
+        "links": [
+          {
+            "source": "vincent_crabbe",
+            "target": "draco_malfoy"
+          },
+          {
+            "source": "vincent_crabbe",
+            "target": "gregory_goyle"
+          },
+          {
+            "source": "vincent_crabbe",
+            "target": "vincent_crabbe"
+          }
+        ],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  },
+  {
+    "gender": "male",
+    "name": "Zacharias Smith",
+    "house": "Hufflepuff",
+    "classname": "zacharias_smith",
+    "books": [
+      {
+        "classname": "sorcerers_stone",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "classname": "chamber_of_secrets",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Chamber of Secrets"
+      },
+      {
+        "classname": "prisoner_of_askaban",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Prisoner of Askaban"
+      },
+      {
+        "classname": "goblet_of_fire",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Goblet of Fire"
+      },
+      {
+        "classname": "order_of_phoenix",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Order of the Phoenix"
+      },
+      {
+        "classname": "half_blood_prince",
+        "count": 0,
+        "links": [],
+        "title": "Harry Potter and the Half-Blood Prince"
+      }
+    ],
+    "year": "1991"
+  }
+]

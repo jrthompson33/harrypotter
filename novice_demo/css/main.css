@@ -1,0 +1,77 @@
+/*your css goes here*/
+
+
+
+/*don't touch, unless you want to break the rest the page*/
+#viz {
+    height: 100%;
+}
+
+.navbar.navbar-default .nav.nav-pills a{
+    color: #333333;
+}
+
+.navbar.navbar-default .btn,
+.navbar.navbar-default .nav.nav-pills .active a{
+    background-color: #777777;
+    color: #fefefe;
+}
+
+.navbar .navbar-right {
+    height: 50px;
+}
+
+.navbar .navbar-brand {
+    padding: 2px;
+}
+
+.navbar-brand img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.navbar-brand span{
+    padding: 0.4em 12px;
+    display: inline-block;
+    font-size: 1.5em;
+    color: #cf8f47;
+    text-shadow: 0.03em 0.06em 0.04em #111;
+}
+
+.navbar-right span{
+    padding: 0.4em 12px;
+    display: inline-block;
+    font-size: 1.5em;
+    color: #cf8f47;
+    text-shadow: 0.03em 0.06em 0.04em #111;
+}
+
+.content {
+    width: 100%;
+    position: absolute;
+    display: block;
+    border-radius: 5px;
+    -o-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.panel {
+    position: relative;
+    min-height: 520px;
+    margin: 0;
+    padding: 0;
+}
+
+.overflowing {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#navigation {
+    background: #f1f1f1;
+}
+
+body {
+    font-family: 'Fjord One', serif;
+}

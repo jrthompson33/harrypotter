@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Vis Template</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.structure.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link href='https://fonts.googleapis.com/css?family=Fjord+One' rel='stylesheet' type='text/css'>
+</head>
+<body>  
+<div class="container-fluid">
+    <nav id="navigation" class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <div class="navbar-brand" href="#"><img src="img/hp_logo.png" style="float:left"> <span>d3.js Tutorial</span></div>
+            </div>
+            <div id="my-info" class="navbar-right">
+                <ul class="nav nav-pills">
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div id="main" class="col-md-12 col-lg-12 panel">
+        <div id="vis" class="content">
+
+        </div>
+    </div>
+</div>
+
+
+<script src="js/vendor/jquery-1.11.2.min.js"></script>
+<script src="js/vendor/jquery-ui.min.js"></script>
+<script src="js/vendor/bootstrap.min.js"></script>
+<script src="js/vendor/d3.min.js"></script>
+<script src="js/vendor/d3.legends.js"></script>
+<script src="js/main.js"></script>
+<script src="js/classes.js"></script>
+<script src="js/tool.js"></script>
+<script>
+    $(window).on("resize load", main.resizeWindow);
+
+    var h = $(window).height() - $('#navigation').height() - 45;
+    var w = $('#vis').width();
+
+    $('#main').height(h);
+
+    // Set params for size of visualization
+    var params = {width: w, height: h, datapath: './data/data.json'};
+
+    // Allow injection of params to tweak the vis
+    var query = window.location.search.substring(1);
+    var vars = query.split('&');
+    vars.forEach(function (v) {
+        var p = v.split('=');
+        params[p[0]] = p[1];
+    });
+
+    main.init(params);
+</script>
+</body>
+</html>
